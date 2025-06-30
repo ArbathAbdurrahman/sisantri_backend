@@ -28,6 +28,10 @@ INSTALLED_APPS = [
 
     # Local apps
     'sisantri',
+    'madrasah.apps.MadrasahConfig', 
+    # 'profil',
+    # 'akademik',
+    'akun',
 ]
 
 MIDDLEWARE = [
